@@ -1,4 +1,4 @@
-# fitness2
+# Learning Flutter Widgets
 
 A new Flutter project.
 
